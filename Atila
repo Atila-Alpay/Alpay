@@ -1,0 +1,5 @@
+#Alpay
+vless://e2a136b5-26ea-428a-fc2b-37cbe34ba0d3@ba.alpay.cf:8443?encryption=none&security=tls&sni=ba.atila.ga&type=ws&path=%2F#ba.Ali
+vless://e2a136b5-26ea-428a-fc2b-37cbe34ba0d3@ba.atila.ga:8443?encryption=none&security=tls&sni=ba.atila.ga&type=ws&path=%2F#ba.Ali
+vless://622fe833-1dd6-47c4-e18d-6fb5d74e6a67@ba.alpay.cf:2096?encryption=none&flow=xtls-rprx-direct&security=xtls&type=tcp&headerType=none#Ali.vl.xtls
+vless://622fe833-1dd6-47c4-e18d-6fb5d74e6a67@ba.atila.ga:2096?encryption=none&flow=xtls-rprx-direct&security=xtls&type=tcp&headerType=none#Ali.vl.tls
