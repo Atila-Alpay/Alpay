@@ -1,7 +1,5 @@
 #Alpay
-#
-
-vless://e2a136b5-26ea-428a-fc2b-37cbe34ba0d3@malver13.alpay.cf:8443?type=ws&security=tls&path=%2F&sni=malver13.alpay.cf#malver-vles
+vless://7dcbc906-e0f2-4a9d-cd03-db8e7b027664@malver13.alpay.cf:15655?type=tcp&security=tls&sni=malver13.alpay.cf#Abolxeir
 #
 vmess://eyJhZGQiOiI0NS44NS4xMTkuNzAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImIxLmlyYW5pYW5jcC5hdXRvcyIsImlkIjoiMGM2NjRmNDQtOWY2OS00NTRmLTg0MWEtNDYxNjcxNWRmMjZmIiwibmV0Ijoid3MiLCJwYXRoIjoiLz9lZFx1MDAzZDIwNDgiLCJwb3J0IjoiODg4MCIsInBzIjoiSXJhbmlhbiBDeXBoZXJwdW5rcyA4ODgwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 
