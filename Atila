@@ -1,8 +1,3 @@
-trojan://1@15.40--2023.05.13.time:1540?sni=fake_ip_for_sub_link&security=tls#0.0/300GB_Remain:128days 
-####################################
-##  direct  dost.tekhconsulting.com  tls:443
-####################################
-
 # tls_h2_XTLS_direct_vless dost.tekhconsulting.com 
 vless://c2a615e9-4fae-45b9-9642-5f3062e92a3f@dost.tekhconsulting.com:443?hiddify=1&sni=dost.tekhconsulting.com&type=tcp&alpn=h2&host=dost.tekhconsulting.com&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=tls#tls_h2_XTLS_direct_vless_dost.tekhconsulting.com
 
