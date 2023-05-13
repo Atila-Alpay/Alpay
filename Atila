@@ -1,54 +1,52 @@
-#Alpay
-
-# Hiddify auto ip: 2.181.188.11 IR 58224 MKH  fullname=Iran Telecommunication Company PJS default:mkh
+trojan://1@15.40--2023.05.13.time:1540?sni=fake_ip_for_sub_link&security=tls#0.0/300GB_Remain:128days 
 ####################################
 ##  direct  dost.tekhconsulting.com  tls:443
 ####################################
 
 # tls_h2_XTLS_direct_vless dost.tekhconsulting.com 
-vless://ab95bcfa-4b88-48f0-93d1-4af1b30d5ff5@dost.tekhconsulting.com:443?hiddify=1&sni=dost.tekhconsulting.com&type=tcp&alpn=h2&host=dost.tekhconsulting.com&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=tls#tls_h2_XTLS_direct_vless_dost.tekhconsulting.com
+vless://c2a615e9-4fae-45b9-9642-5f3062e92a3f@dost.tekhconsulting.com:443?hiddify=1&sni=dost.tekhconsulting.com&type=tcp&alpn=h2&host=dost.tekhconsulting.com&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=tls#tls_h2_XTLS_direct_vless_dost.tekhconsulting.com
 
 # tls_h2_WS_direct_vless dost.tekhconsulting.com 
-vless://ab95bcfa-4b88-48f0-93d1-4af1b30d5ff5@dost.tekhconsulting.com:443?hiddify=1&sni=dost.tekhconsulting.com&type=ws&alpn=h2&path=/RHD1gbvJJ3sjQwu0aIbYbLT9&host=dost.tekhconsulting.com&encryption=none&fp=chrome&headerType=None&security=tls#tls_h2_WS_direct_vless_dost.tekhconsulting.com
+vless://c2a615e9-4fae-45b9-9642-5f3062e92a3f@dost.tekhconsulting.com:443?hiddify=1&sni=dost.tekhconsulting.com&type=ws&alpn=h2&path=/Bjp0LuSmeyRJK5i0ocYcwa&host=dost.tekhconsulting.com&encryption=none&fp=chrome&headerType=None&security=tls#tls_h2_WS_direct_vless_dost.tekhconsulting.com
 
 # tls_h2_WS_direct_trojan dost.tekhconsulting.com 
-trojan://ab95bcfa-4b88-48f0-93d1-4af1b30d5ff5@dost.tekhconsulting.com:443?hiddify=1&sni=dost.tekhconsulting.com&type=ws&alpn=h2&path=/5ToQijCwu0aIbYbLT9&host=dost.tekhconsulting.com&fp=chrome&headerType=None&security=tls#tls_h2_WS_direct_trojan_dost.tekhconsulting.com
+trojan://c2a615e9-4fae-45b9-9642-5f3062e92a3f@dost.tekhconsulting.com:443?hiddify=1&sni=dost.tekhconsulting.com&type=ws&alpn=h2&path=/faWzWmmFJjlMHIi0ocYcwa&host=dost.tekhconsulting.com&fp=chrome&headerType=None&security=tls#tls_h2_WS_direct_trojan_dost.tekhconsulting.com
 
 # tls_h2_tcp_direct_trojan dost.tekhconsulting.com 
-trojan://ab95bcfa-4b88-48f0-93d1-4af1b30d5ff5@dost.tekhconsulting.com:443?hiddify=1&sni=dost.tekhconsulting.com&type=tcp&alpn=h2&path=/5ToQijCYvv0wZEMGJd&host=dost.tekhconsulting.com&fp=chrome&headerType=None&security=tls#tls_h2_tcp_direct_trojan_dost.tekhconsulting.com
+trojan://c2a615e9-4fae-45b9-9642-5f3062e92a3f@dost.tekhconsulting.com:443?hiddify=1&sni=dost.tekhconsulting.com&type=tcp&alpn=h2&path=/faWzWmmFJjlMHI5uxEGzRLu&host=dost.tekhconsulting.com&fp=chrome&headerType=None&security=tls#tls_h2_tcp_direct_trojan_dost.tekhconsulting.com
 
 # tls_h2_grpc_direct_vless dost.tekhconsulting.com 
-vless://ab95bcfa-4b88-48f0-93d1-4af1b30d5ff5@dost.tekhconsulting.com:443?hiddify=1&sni=dost.tekhconsulting.com&type=grpc&alpn=h2&path=RHD1gbvJJ3sjQ8SemrRqrrk&host=dost.tekhconsulting.com&serviceName=RHD1gbvJJ3sjQ8SemrRqrrk&mode=multi&encryption=none&fp=chrome&headerType=None&security=tls#tls_h2_grpc_direct_vless_dost.tekhconsulting.com
+vless://c2a615e9-4fae-45b9-9642-5f3062e92a3f@dost.tekhconsulting.com:443?hiddify=1&sni=dost.tekhconsulting.com&type=grpc&alpn=h2&path=Bjp0LuSmeyRJK5A4uCMQ8s7wgIFI&host=dost.tekhconsulting.com&serviceName=Bjp0LuSmeyRJK5A4uCMQ8s7wgIFI&mode=multi&encryption=none&fp=chrome&headerType=None&security=tls#tls_h2_grpc_direct_vless_dost.tekhconsulting.com
 
 # tls_h2_grpc_direct_trojan dost.tekhconsulting.com 
-trojan://ab95bcfa-4b88-48f0-93d1-4af1b30d5ff5@dost.tekhconsulting.com:443?hiddify=1&sni=dost.tekhconsulting.com&type=grpc&alpn=h2&path=5ToQijC8SemrRqrrk&host=dost.tekhconsulting.com&serviceName=5ToQijC8SemrRqrrk&mode=multi&fp=chrome&headerType=None&security=tls#tls_h2_grpc_direct_trojan_dost.tekhconsulting.com
+trojan://c2a615e9-4fae-45b9-9642-5f3062e92a3f@dost.tekhconsulting.com:443?hiddify=1&sni=dost.tekhconsulting.com&type=grpc&alpn=h2&path=faWzWmmFJjlMHIA4uCMQ8s7wgIFI&host=dost.tekhconsulting.com&serviceName=faWzWmmFJjlMHIA4uCMQ8s7wgIFI&mode=multi&fp=chrome&headerType=None&security=tls#tls_h2_grpc_direct_trojan_dost.tekhconsulting.com
 
 # tls_h2_shadowtls_direct_ss dost.tekhconsulting.com 
-ss://ab95bcfa-4b88-48f0-93d1-4af1b30d5ff5@dost.tekhconsulting.com:443?hiddify=1&sni=dost.tekhconsulting.com&type=shadowtls&alpn=h2&host=dost.tekhconsulting.com&fp=chrome&headerType=None&security=tls#tls_h2_shadowtls_direct_ss_dost.tekhconsulting.com
+ss://c2a615e9-4fae-45b9-9642-5f3062e92a3f@dost.tekhconsulting.com:443?hiddify=1&sni=dost.tekhconsulting.com&type=shadowtls&alpn=h2&host=dost.tekhconsulting.com&fp=chrome&headerType=None&security=tls#tls_h2_shadowtls_direct_ss_dost.tekhconsulting.com
 
 # tls_XTLS_direct_vless dost.tekhconsulting.com 
-vless://ab95bcfa-4b88-48f0-93d1-4af1b30d5ff5@dost.tekhconsulting.com:443?hiddify=1&sni=dost.tekhconsulting.com&type=tcp&alpn=http/1.1&host=dost.tekhconsulting.com&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=tls#tls_XTLS_direct_vless_dost.tekhconsulting.com
+vless://c2a615e9-4fae-45b9-9642-5f3062e92a3f@dost.tekhconsulting.com:443?hiddify=1&sni=dost.tekhconsulting.com&type=tcp&alpn=http/1.1&host=dost.tekhconsulting.com&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=tls#tls_XTLS_direct_vless_dost.tekhconsulting.com
 
 # tls_WS_direct_vless dost.tekhconsulting.com 
-vless://ab95bcfa-4b88-48f0-93d1-4af1b30d5ff5@dost.tekhconsulting.com:443?hiddify=1&sni=dost.tekhconsulting.com&type=ws&alpn=http/1.1&path=/RHD1gbvJJ3sjQwu0aIbYbLT9&host=dost.tekhconsulting.com&encryption=none&fp=chrome&headerType=None&security=tls#tls_WS_direct_vless_dost.tekhconsulting.com
+vless://c2a615e9-4fae-45b9-9642-5f3062e92a3f@dost.tekhconsulting.com:443?hiddify=1&sni=dost.tekhconsulting.com&type=ws&alpn=http/1.1&path=/Bjp0LuSmeyRJK5i0ocYcwa&host=dost.tekhconsulting.com&encryption=none&fp=chrome&headerType=None&security=tls#tls_WS_direct_vless_dost.tekhconsulting.com
 
 # tls_WS_direct_trojan dost.tekhconsulting.com 
-trojan://ab95bcfa-4b88-48f0-93d1-4af1b30d5ff5@dost.tekhconsulting.com:443?hiddify=1&sni=dost.tekhconsulting.com&type=ws&alpn=http/1.1&path=/5ToQijCwu0aIbYbLT9&host=dost.tekhconsulting.com&fp=chrome&headerType=None&security=tls#tls_WS_direct_trojan_dost.tekhconsulting.com
+trojan://c2a615e9-4fae-45b9-9642-5f3062e92a3f@dost.tekhconsulting.com:443?hiddify=1&sni=dost.tekhconsulting.com&type=ws&alpn=http/1.1&path=/faWzWmmFJjlMHIi0ocYcwa&host=dost.tekhconsulting.com&fp=chrome&headerType=None&security=tls#tls_WS_direct_trojan_dost.tekhconsulting.com
 
 # tls_tcp_direct_trojan dost.tekhconsulting.com 
-trojan://ab95bcfa-4b88-48f0-93d1-4af1b30d5ff5@dost.tekhconsulting.com:443?hiddify=1&sni=dost.tekhconsulting.com&type=tcp&alpn=http/1.1&path=/5ToQijCYvv0wZEMGJd&host=dost.tekhconsulting.com&fp=chrome&headerType=None&security=tls#tls_tcp_direct_trojan_dost.tekhconsulting.com
+trojan://c2a615e9-4fae-45b9-9642-5f3062e92a3f@dost.tekhconsulting.com:443?hiddify=1&sni=dost.tekhconsulting.com&type=tcp&alpn=http/1.1&path=/faWzWmmFJjlMHI5uxEGzRLu&host=dost.tekhconsulting.com&fp=chrome&headerType=None&security=tls#tls_tcp_direct_trojan_dost.tekhconsulting.com
 
 # tls_grpc_direct_vless dost.tekhconsulting.com 
-vless://ab95bcfa-4b88-48f0-93d1-4af1b30d5ff5@dost.tekhconsulting.com:443?hiddify=1&sni=dost.tekhconsulting.com&type=grpc&alpn=http/1.1&path=RHD1gbvJJ3sjQ8SemrRqrrk&host=dost.tekhconsulting.com&serviceName=RHD1gbvJJ3sjQ8SemrRqrrk&mode=multi&encryption=none&fp=chrome&headerType=None&security=tls#tls_grpc_direct_vless_dost.tekhconsulting.com
+vless://c2a615e9-4fae-45b9-9642-5f3062e92a3f@dost.tekhconsulting.com:443?hiddify=1&sni=dost.tekhconsulting.com&type=grpc&alpn=http/1.1&path=Bjp0LuSmeyRJK5A4uCMQ8s7wgIFI&host=dost.tekhconsulting.com&serviceName=Bjp0LuSmeyRJK5A4uCMQ8s7wgIFI&mode=multi&encryption=none&fp=chrome&headerType=None&security=tls#tls_grpc_direct_vless_dost.tekhconsulting.com
 
 # tls_grpc_direct_trojan dost.tekhconsulting.com 
-trojan://ab95bcfa-4b88-48f0-93d1-4af1b30d5ff5@dost.tekhconsulting.com:443?hiddify=1&sni=dost.tekhconsulting.com&type=grpc&alpn=http/1.1&path=5ToQijC8SemrRqrrk&host=dost.tekhconsulting.com&serviceName=5ToQijC8SemrRqrrk&mode=multi&fp=chrome&headerType=None&security=tls#tls_grpc_direct_trojan_dost.tekhconsulting.com
+trojan://c2a615e9-4fae-45b9-9642-5f3062e92a3f@dost.tekhconsulting.com:443?hiddify=1&sni=dost.tekhconsulting.com&type=grpc&alpn=http/1.1&path=faWzWmmFJjlMHIA4uCMQ8s7wgIFI&host=dost.tekhconsulting.com&serviceName=faWzWmmFJjlMHIA4uCMQ8s7wgIFI&mode=multi&fp=chrome&headerType=None&security=tls#tls_grpc_direct_trojan_dost.tekhconsulting.com
 
 # tls_shadowtls_direct_ss dost.tekhconsulting.com 
-ss://ab95bcfa-4b88-48f0-93d1-4af1b30d5ff5@dost.tekhconsulting.com:443?hiddify=1&sni=dost.tekhconsulting.com&type=shadowtls&alpn=http/1.1&host=dost.tekhconsulting.com&fp=chrome&headerType=None&security=tls#tls_shadowtls_direct_ss_dost.tekhconsulting.com
+ss://c2a615e9-4fae-45b9-9642-5f3062e92a3f@dost.tekhconsulting.com:443?hiddify=1&sni=dost.tekhconsulting.com&type=shadowtls&alpn=http/1.1&host=dost.tekhconsulting.com&fp=chrome&headerType=None&security=tls#tls_shadowtls_direct_ss_dost.tekhconsulting.com
 
 # reality_XTLS_direct_vless dost.tekhconsulting.com 
-vless://ab95bcfa-4b88-48f0-93d1-4af1b30d5ff5@dost.tekhconsulting.com:443?hiddify=1&sni=tinder.com&type=tcp&alpn=h2&host=dost.tekhconsulting.com&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=reality&pbk=Oi1sQyTrmH7X0qScd-dIIPJGxXCp2zs183gheXTdpz0&sid=06e63b7ca5c54d2d#reality_XTLS_direct_vless_dost.tekhconsulting.com
+vless://c2a615e9-4fae-45b9-9642-5f3062e92a3f@dost.tekhconsulting.com:443?hiddify=1&sni=www.shekaf.org&type=tcp&alpn=h2&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=reality&pbk=8NICLnY0QtACacO60JGC-Y_NjkWe0O0ZAOInj74xlFc&sid=fac4e2b0#reality_XTLS_direct_vless_dost.tekhconsulting.com
 
 # reality_grpc_direct_vless dost.tekhconsulting.com 
-vless://ab95bcfa-4b88-48f0-93d1-4af1b30d5ff5@dost.tekhconsulting.com:443?hiddify=1&sni=tinder.com&type=grpc&alpn=h2&path=RHD1gbvJJ3sjQ8SemrRqrrk&host=dost.tekhconsulting.com&serviceName=RHD1gbvJJ3sjQ8SemrRqrrk&mode=multi&encryption=none&fp=chrome&headerType=None&security=reality&pbk=Oi1sQyTrmH7X0qScd-dIIPJGxXCp2zs183gheXTdpz0&sid=06e63b7ca5c54d2d#reality_grpc_direct_vless_dost.tekhconsulting.com
+vless://c2a615e9-4fae-45b9-9642-5f3062e92a3f@dost.tekhconsulting.com:443?hiddify=1&sni=www.shekaf.org&type=grpc&alpn=h2&path=Bjp0LuSmeyRJK5A4uCMQ8s7wgIFI&serviceName=Bjp0LuSmeyRJK5A4uCMQ8s7wgIFI&mode=multi&encryption=none&fp=chrome&headerType=None&security=reality&pbk=8NICLnY0QtACacO60JGC-Y_NjkWe0O0ZAOInj74xlFc&sid=fac4e2b0#reality_grpc_direct_vless_dost.tekhconsulting.com
