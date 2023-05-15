@@ -1,47 +1,174 @@
-# tls_h2_XTLS_direct_vless dost.tekhconsulting.com 
-vless://c2a615e9-4fae-45b9-9642-5f3062e92a3f@dost.tekhconsulting.com:443?hiddify=1&sni=dost.tekhconsulting.com&type=tcp&alpn=h2&host=dost.tekhconsulting.com&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=tls#tls_h2_XTLS_direct_vless_dost.tekhconsulting.com
+####################################
+##  direct  tu.mkm.com.tr  http:80
+####################################
 
-# tls_h2_WS_direct_vless dost.tekhconsulting.com 
-vless://c2a615e9-4fae-45b9-9642-5f3062e92a3f@dost.tekhconsulting.com:443?hiddify=1&sni=dost.tekhconsulting.com&type=ws&alpn=h2&path=/Bjp0LuSmeyRJK5i0ocYcwa&host=dost.tekhconsulting.com&encryption=none&fp=chrome&headerType=None&security=tls#tls_h2_WS_direct_vless_dost.tekhconsulting.com
+# http_WS_direct_vmess tu.mkm.com.tr 
+vmess://eyJ2IjogIjIiLCAicHMiOiAiaHR0cF9XU19kaXJlY3Rfdm1lc3NfdHUubWttLmNvbS50ciIsICJhZGQiOiAidHUubWttLmNvbS50ciIsICJwb3J0IjogODAsICJpZCI6ICI4OWU1ZTExNS03ZmY5LTRmZjUtYWI3Ny0yYzAyMzYxOGI1ODQiLCAiYWlkIjogMCwgInNjeSI6ICJjaGFjaGEyMC1wb2x5MTMwNSIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAidHUubWttLmNvbS50ciIsICJhbHBuIjogImh0dHAvMS4xIiwgInBhdGgiOiAiLzY0WGtMUG1Camc1a3A1Q09vaHlVIiwgInRscyI6ICIiLCAic25pIjogInR1Lm1rbS5jb20udHIiLCAiZnAiOiAiY2hyb21lIn0=
 
-# tls_h2_WS_direct_trojan dost.tekhconsulting.com 
-trojan://c2a615e9-4fae-45b9-9642-5f3062e92a3f@dost.tekhconsulting.com:443?hiddify=1&sni=dost.tekhconsulting.com&type=ws&alpn=h2&path=/faWzWmmFJjlMHIi0ocYcwa&host=dost.tekhconsulting.com&fp=chrome&headerType=None&security=tls#tls_h2_WS_direct_trojan_dost.tekhconsulting.com
+# http_tcp_direct_vmess tu.mkm.com.tr 
+vmess://eyJ2IjogIjIiLCAicHMiOiAiaHR0cF90Y3BfZGlyZWN0X3ZtZXNzX3R1Lm1rbS5jb20udHIiLCAiYWRkIjogInR1Lm1rbS5jb20udHIiLCAicG9ydCI6IDgwLCAiaWQiOiAiODllNWUxMTUtN2ZmOS00ZmY1LWFiNzctMmMwMjM2MThiNTg0IiwgImFpZCI6IDAsICJzY3kiOiAiY2hhY2hhMjAtcG9seTEzMDUiLCAibmV0IjogInRjcCIsICJ0eXBlIjogImh0dHAiLCAiaG9zdCI6ICJ0dS5ta20uY29tLnRyIiwgImFscG4iOiAiaHR0cC8xLjEiLCAicGF0aCI6ICIvNjRYa0xQbUJqZzVrcDZXZ1BsaUVzam9JIiwgInRscyI6ICIiLCAic25pIjogInR1Lm1rbS5jb20udHIiLCAiZnAiOiAiY2hyb21lIn0=
+####################################
+##  direct  tu.mkm.com.tr  tls:443
+####################################
 
-# tls_h2_tcp_direct_trojan dost.tekhconsulting.com 
-trojan://c2a615e9-4fae-45b9-9642-5f3062e92a3f@dost.tekhconsulting.com:443?hiddify=1&sni=dost.tekhconsulting.com&type=tcp&alpn=h2&path=/faWzWmmFJjlMHI5uxEGzRLu&host=dost.tekhconsulting.com&fp=chrome&headerType=None&security=tls#tls_h2_tcp_direct_trojan_dost.tekhconsulting.com
+# tls_h2_XTLS_direct_vless tu.mkm.com.tr 
+vless://89e5e115-7ff9-4ff5-ab77-2c023618b584@tu.mkm.com.tr:443?hiddify=1&sni=tu.mkm.com.tr&type=tcp&alpn=h2&host=tu.mkm.com.tr&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=tls#tls_h2_XTLS_direct_vless_tu.mkm.com.tr
 
-# tls_h2_grpc_direct_vless dost.tekhconsulting.com 
-vless://c2a615e9-4fae-45b9-9642-5f3062e92a3f@dost.tekhconsulting.com:443?hiddify=1&sni=dost.tekhconsulting.com&type=grpc&alpn=h2&path=Bjp0LuSmeyRJK5A4uCMQ8s7wgIFI&host=dost.tekhconsulting.com&serviceName=Bjp0LuSmeyRJK5A4uCMQ8s7wgIFI&mode=multi&encryption=none&fp=chrome&headerType=None&security=tls#tls_h2_grpc_direct_vless_dost.tekhconsulting.com
+# tls_h2_WS_direct_vless tu.mkm.com.tr 
+vless://89e5e115-7ff9-4ff5-ab77-2c023618b584@tu.mkm.com.tr:443?hiddify=1&sni=tu.mkm.com.tr&type=ws&alpn=h2&path=/MCz45tKAMYa1ce5COohyU&host=tu.mkm.com.tr&encryption=none&fp=chrome&headerType=None&security=tls#tls_h2_WS_direct_vless_tu.mkm.com.tr
 
-# tls_h2_grpc_direct_trojan dost.tekhconsulting.com 
-trojan://c2a615e9-4fae-45b9-9642-5f3062e92a3f@dost.tekhconsulting.com:443?hiddify=1&sni=dost.tekhconsulting.com&type=grpc&alpn=h2&path=faWzWmmFJjlMHIA4uCMQ8s7wgIFI&host=dost.tekhconsulting.com&serviceName=faWzWmmFJjlMHIA4uCMQ8s7wgIFI&mode=multi&fp=chrome&headerType=None&security=tls#tls_h2_grpc_direct_trojan_dost.tekhconsulting.com
+# tls_h2_WS_direct_trojan tu.mkm.com.tr 
+trojan://89e5e115-7ff9-4ff5-ab77-2c023618b584@tu.mkm.com.tr:443?hiddify=1&sni=tu.mkm.com.tr&type=ws&alpn=h2&path=/Usn0WKVq0u15COohyU&host=tu.mkm.com.tr&fp=chrome&headerType=None&security=tls#tls_h2_WS_direct_trojan_tu.mkm.com.tr
 
-# tls_h2_shadowtls_direct_ss dost.tekhconsulting.com 
-ss://c2a615e9-4fae-45b9-9642-5f3062e92a3f@dost.tekhconsulting.com:443?hiddify=1&sni=dost.tekhconsulting.com&type=shadowtls&alpn=h2&host=dost.tekhconsulting.com&fp=chrome&headerType=None&security=tls#tls_h2_shadowtls_direct_ss_dost.tekhconsulting.com
+# tls_h2_WS_direct_vmess tu.mkm.com.tr 
+vmess://eyJ2IjogIjIiLCAicHMiOiAidGxzX2gyX1dTX2RpcmVjdF92bWVzc190dS5ta20uY29tLnRyIiwgImFkZCI6ICJ0dS5ta20uY29tLnRyIiwgInBvcnQiOiA0NDMsICJpZCI6ICI4OWU1ZTExNS03ZmY5LTRmZjUtYWI3Ny0yYzAyMzYxOGI1ODQiLCAiYWlkIjogMCwgInNjeSI6ICJjaGFjaGEyMC1wb2x5MTMwNSIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAidHUubWttLmNvbS50ciIsICJhbHBuIjogImgyIiwgInBhdGgiOiAiLzY0WGtMUG1Camc1a3A1Q09vaHlVIiwgInRscyI6ICJ0bHMiLCAic25pIjogInR1Lm1rbS5jb20udHIiLCAiZnAiOiAiY2hyb21lIn0=
 
-# tls_XTLS_direct_vless dost.tekhconsulting.com 
-vless://c2a615e9-4fae-45b9-9642-5f3062e92a3f@dost.tekhconsulting.com:443?hiddify=1&sni=dost.tekhconsulting.com&type=tcp&alpn=http/1.1&host=dost.tekhconsulting.com&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=tls#tls_XTLS_direct_vless_dost.tekhconsulting.com
+# tls_h2_tcp_direct_trojan tu.mkm.com.tr 
+trojan://89e5e115-7ff9-4ff5-ab77-2c023618b584@tu.mkm.com.tr:443?hiddify=1&sni=tu.mkm.com.tr&type=tcp&alpn=h2&path=/Usn0WKVq0u16WgPliEsjoI&host=tu.mkm.com.tr&fp=chrome&headerType=None&security=tls#tls_h2_tcp_direct_trojan_tu.mkm.com.tr
 
-# tls_WS_direct_vless dost.tekhconsulting.com 
-vless://c2a615e9-4fae-45b9-9642-5f3062e92a3f@dost.tekhconsulting.com:443?hiddify=1&sni=dost.tekhconsulting.com&type=ws&alpn=http/1.1&path=/Bjp0LuSmeyRJK5i0ocYcwa&host=dost.tekhconsulting.com&encryption=none&fp=chrome&headerType=None&security=tls#tls_WS_direct_vless_dost.tekhconsulting.com
+# tls_h2_tcp_direct_vmess tu.mkm.com.tr 
+vmess://eyJ2IjogIjIiLCAicHMiOiAidGxzX2gyX3RjcF9kaXJlY3Rfdm1lc3NfdHUubWttLmNvbS50ciIsICJhZGQiOiAidHUubWttLmNvbS50ciIsICJwb3J0IjogNDQzLCAiaWQiOiAiODllNWUxMTUtN2ZmOS00ZmY1LWFiNzctMmMwMjM2MThiNTg0IiwgImFpZCI6IDAsICJzY3kiOiAiY2hhY2hhMjAtcG9seTEzMDUiLCAibmV0IjogInRjcCIsICJ0eXBlIjogImh0dHAiLCAiaG9zdCI6ICJ0dS5ta20uY29tLnRyIiwgImFscG4iOiAiaDIiLCAicGF0aCI6ICIvNjRYa0xQbUJqZzVrcDZXZ1BsaUVzam9JIiwgInRscyI6ICJ0bHMiLCAic25pIjogInR1Lm1rbS5jb20udHIiLCAiZnAiOiAiY2hyb21lIn0=
 
-# tls_WS_direct_trojan dost.tekhconsulting.com 
-trojan://c2a615e9-4fae-45b9-9642-5f3062e92a3f@dost.tekhconsulting.com:443?hiddify=1&sni=dost.tekhconsulting.com&type=ws&alpn=http/1.1&path=/faWzWmmFJjlMHIi0ocYcwa&host=dost.tekhconsulting.com&fp=chrome&headerType=None&security=tls#tls_WS_direct_trojan_dost.tekhconsulting.com
+# tls_h2_grpc_direct_vless tu.mkm.com.tr 
+vless://89e5e115-7ff9-4ff5-ab77-2c023618b584@tu.mkm.com.tr:443?hiddify=1&sni=tu.mkm.com.tr&type=grpc&alpn=h2&path=MCz45tKAMYa1ceJYoGafJWDIDuQmP&host=tu.mkm.com.tr&serviceName=MCz45tKAMYa1ceJYoGafJWDIDuQmP&mode=multi&encryption=none&fp=chrome&headerType=None&security=tls#tls_h2_grpc_direct_vless_tu.mkm.com.tr
 
-# tls_tcp_direct_trojan dost.tekhconsulting.com 
-trojan://c2a615e9-4fae-45b9-9642-5f3062e92a3f@dost.tekhconsulting.com:443?hiddify=1&sni=dost.tekhconsulting.com&type=tcp&alpn=http/1.1&path=/faWzWmmFJjlMHI5uxEGzRLu&host=dost.tekhconsulting.com&fp=chrome&headerType=None&security=tls#tls_tcp_direct_trojan_dost.tekhconsulting.com
+# tls_h2_grpc_direct_trojan tu.mkm.com.tr 
+trojan://89e5e115-7ff9-4ff5-ab77-2c023618b584@tu.mkm.com.tr:443?hiddify=1&sni=tu.mkm.com.tr&type=grpc&alpn=h2&path=Usn0WKVq0u1JYoGafJWDIDuQmP&host=tu.mkm.com.tr&serviceName=Usn0WKVq0u1JYoGafJWDIDuQmP&mode=multi&fp=chrome&headerType=None&security=tls#tls_h2_grpc_direct_trojan_tu.mkm.com.tr
 
-# tls_grpc_direct_vless dost.tekhconsulting.com 
-vless://c2a615e9-4fae-45b9-9642-5f3062e92a3f@dost.tekhconsulting.com:443?hiddify=1&sni=dost.tekhconsulting.com&type=grpc&alpn=http/1.1&path=Bjp0LuSmeyRJK5A4uCMQ8s7wgIFI&host=dost.tekhconsulting.com&serviceName=Bjp0LuSmeyRJK5A4uCMQ8s7wgIFI&mode=multi&encryption=none&fp=chrome&headerType=None&security=tls#tls_grpc_direct_vless_dost.tekhconsulting.com
+# tls_h2_grpc_direct_vmess tu.mkm.com.tr 
+vmess://eyJ2IjogIjIiLCAicHMiOiAidGxzX2gyX2dycGNfZGlyZWN0X3ZtZXNzX3R1Lm1rbS5jb20udHIiLCAiYWRkIjogInR1Lm1rbS5jb20udHIiLCAicG9ydCI6IDQ0MywgImlkIjogIjg5ZTVlMTE1LTdmZjktNGZmNS1hYjc3LTJjMDIzNjE4YjU4NCIsICJhaWQiOiAwLCAic2N5IjogImNoYWNoYTIwLXBvbHkxMzA1IiwgIm5ldCI6ICJncnBjIiwgInR5cGUiOiAibXVsdGkiLCAiaG9zdCI6ICJ0dS5ta20uY29tLnRyIiwgImFscG4iOiAiaDIiLCAicGF0aCI6ICI2NFhrTFBtQmpnNWtwSllvR2FmSldESUR1UW1QIiwgInRscyI6ICJ0bHMiLCAic25pIjogInR1Lm1rbS5jb20udHIiLCAiZnAiOiAiY2hyb21lIn0=
 
-# tls_grpc_direct_trojan dost.tekhconsulting.com 
-trojan://c2a615e9-4fae-45b9-9642-5f3062e92a3f@dost.tekhconsulting.com:443?hiddify=1&sni=dost.tekhconsulting.com&type=grpc&alpn=http/1.1&path=faWzWmmFJjlMHIA4uCMQ8s7wgIFI&host=dost.tekhconsulting.com&serviceName=faWzWmmFJjlMHIA4uCMQ8s7wgIFI&mode=multi&fp=chrome&headerType=None&security=tls#tls_grpc_direct_trojan_dost.tekhconsulting.com
+# tls_XTLS_direct_vless tu.mkm.com.tr 
+vless://89e5e115-7ff9-4ff5-ab77-2c023618b584@tu.mkm.com.tr:443?hiddify=1&sni=tu.mkm.com.tr&type=tcp&alpn=http/1.1&host=tu.mkm.com.tr&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=tls#tls_XTLS_direct_vless_tu.mkm.com.tr
 
-# tls_shadowtls_direct_ss dost.tekhconsulting.com 
-ss://c2a615e9-4fae-45b9-9642-5f3062e92a3f@dost.tekhconsulting.com:443?hiddify=1&sni=dost.tekhconsulting.com&type=shadowtls&alpn=http/1.1&host=dost.tekhconsulting.com&fp=chrome&headerType=None&security=tls#tls_shadowtls_direct_ss_dost.tekhconsulting.com
+# tls_WS_direct_vless tu.mkm.com.tr 
+vless://89e5e115-7ff9-4ff5-ab77-2c023618b584@tu.mkm.com.tr:443?hiddify=1&sni=tu.mkm.com.tr&type=ws&alpn=http/1.1&path=/MCz45tKAMYa1ce5COohyU&host=tu.mkm.com.tr&encryption=none&fp=chrome&headerType=None&security=tls#tls_WS_direct_vless_tu.mkm.com.tr
 
-# reality_XTLS_direct_vless dost.tekhconsulting.com 
-vless://c2a615e9-4fae-45b9-9642-5f3062e92a3f@dost.tekhconsulting.com:443?hiddify=1&sni=www.shekaf.org&type=tcp&alpn=h2&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=reality&pbk=8NICLnY0QtACacO60JGC-Y_NjkWe0O0ZAOInj74xlFc&sid=fac4e2b0#reality_XTLS_direct_vless_dost.tekhconsulting.com
+# tls_WS_direct_trojan tu.mkm.com.tr 
+trojan://89e5e115-7ff9-4ff5-ab77-2c023618b584@tu.mkm.com.tr:443?hiddify=1&sni=tu.mkm.com.tr&type=ws&alpn=http/1.1&path=/Usn0WKVq0u15COohyU&host=tu.mkm.com.tr&fp=chrome&headerType=None&security=tls#tls_WS_direct_trojan_tu.mkm.com.tr
 
-# reality_grpc_direct_vless dost.tekhconsulting.com 
-vless://c2a615e9-4fae-45b9-9642-5f3062e92a3f@dost.tekhconsulting.com:443?hiddify=1&sni=www.shekaf.org&type=grpc&alpn=h2&path=Bjp0LuSmeyRJK5A4uCMQ8s7wgIFI&serviceName=Bjp0LuSmeyRJK5A4uCMQ8s7wgIFI&mode=multi&encryption=none&fp=chrome&headerType=None&security=reality&pbk=8NICLnY0QtACacO60JGC-Y_NjkWe0O0ZAOInj74xlFc&sid=fac4e2b0#reality_grpc_direct_vless_dost.tekhconsulting.com
+# tls_WS_direct_vmess tu.mkm.com.tr 
+vmess://eyJ2IjogIjIiLCAicHMiOiAidGxzX1dTX2RpcmVjdF92bWVzc190dS5ta20uY29tLnRyIiwgImFkZCI6ICJ0dS5ta20uY29tLnRyIiwgInBvcnQiOiA0NDMsICJpZCI6ICI4OWU1ZTExNS03ZmY5LTRmZjUtYWI3Ny0yYzAyMzYxOGI1ODQiLCAiYWlkIjogMCwgInNjeSI6ICJjaGFjaGEyMC1wb2x5MTMwNSIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAidHUubWttLmNvbS50ciIsICJhbHBuIjogImh0dHAvMS4xIiwgInBhdGgiOiAiLzY0WGtMUG1Camc1a3A1Q09vaHlVIiwgInRscyI6ICJ0bHMiLCAic25pIjogInR1Lm1rbS5jb20udHIiLCAiZnAiOiAiY2hyb21lIn0=
+
+# tls_tcp_direct_trojan tu.mkm.com.tr 
+trojan://89e5e115-7ff9-4ff5-ab77-2c023618b584@tu.mkm.com.tr:443?hiddify=1&sni=tu.mkm.com.tr&type=tcp&alpn=http/1.1&path=/Usn0WKVq0u16WgPliEsjoI&host=tu.mkm.com.tr&fp=chrome&headerType=None&security=tls#tls_tcp_direct_trojan_tu.mkm.com.tr
+
+# tls_tcp_direct_vmess tu.mkm.com.tr 
+vmess://eyJ2IjogIjIiLCAicHMiOiAidGxzX3RjcF9kaXJlY3Rfdm1lc3NfdHUubWttLmNvbS50ciIsICJhZGQiOiAidHUubWttLmNvbS50ciIsICJwb3J0IjogNDQzLCAiaWQiOiAiODllNWUxMTUtN2ZmOS00ZmY1LWFiNzctMmMwMjM2MThiNTg0IiwgImFpZCI6IDAsICJzY3kiOiAiY2hhY2hhMjAtcG9seTEzMDUiLCAibmV0IjogInRjcCIsICJ0eXBlIjogImh0dHAiLCAiaG9zdCI6ICJ0dS5ta20uY29tLnRyIiwgImFscG4iOiAiaHR0cC8xLjEiLCAicGF0aCI6ICIvNjRYa0xQbUJqZzVrcDZXZ1BsaUVzam9JIiwgInRscyI6ICJ0bHMiLCAic25pIjogInR1Lm1rbS5jb20udHIiLCAiZnAiOiAiY2hyb21lIn0=
+
+# tls_grpc_direct_vless tu.mkm.com.tr 
+vless://89e5e115-7ff9-4ff5-ab77-2c023618b584@tu.mkm.com.tr:443?hiddify=1&sni=tu.mkm.com.tr&type=grpc&alpn=http/1.1&path=MCz45tKAMYa1ceJYoGafJWDIDuQmP&host=tu.mkm.com.tr&serviceName=MCz45tKAMYa1ceJYoGafJWDIDuQmP&mode=multi&encryption=none&fp=chrome&headerType=None&security=tls#tls_grpc_direct_vless_tu.mkm.com.tr
+
+# tls_grpc_direct_trojan tu.mkm.com.tr 
+trojan://89e5e115-7ff9-4ff5-ab77-2c023618b584@tu.mkm.com.tr:443?hiddify=1&sni=tu.mkm.com.tr&type=grpc&alpn=http/1.1&path=Usn0WKVq0u1JYoGafJWDIDuQmP&host=tu.mkm.com.tr&serviceName=Usn0WKVq0u1JYoGafJWDIDuQmP&mode=multi&fp=chrome&headerType=None&security=tls#tls_grpc_direct_trojan_tu.mkm.com.tr
+
+# tls_grpc_direct_vmess tu.mkm.com.tr 
+vmess://eyJ2IjogIjIiLCAicHMiOiAidGxzX2dycGNfZGlyZWN0X3ZtZXNzX3R1Lm1rbS5jb20udHIiLCAiYWRkIjogInR1Lm1rbS5jb20udHIiLCAicG9ydCI6IDQ0MywgImlkIjogIjg5ZTVlMTE1LTdmZjktNGZmNS1hYjc3LTJjMDIzNjE4YjU4NCIsICJhaWQiOiAwLCAic2N5IjogImNoYWNoYTIwLXBvbHkxMzA1IiwgIm5ldCI6ICJncnBjIiwgInR5cGUiOiAibXVsdGkiLCAiaG9zdCI6ICJ0dS5ta20uY29tLnRyIiwgImFscG4iOiAiaHR0cC8xLjEiLCAicGF0aCI6ICI2NFhrTFBtQmpnNWtwSllvR2FmSldESUR1UW1QIiwgInRscyI6ICJ0bHMiLCAic25pIjogInR1Lm1rbS5jb20udHIiLCAiZnAiOiAiY2hyb21lIn0=
+
+# reality_XTLS_direct_vless tu.mkm.com.tr 
+vless://89e5e115-7ff9-4ff5-ab77-2c023618b584@tu.mkm.com.tr:443?hiddify=1&sni=www.theguardian.com&type=tcp&alpn=h2&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=reality&pbk=ajWuicsKgSLqbXI-8TuXFQc8F9F7E2vEq8Pa0Wbw2l0&sid=3d71#reality_XTLS_direct_vless_tu.mkm.com.tr
+
+# reality_grpc_direct_vless tu.mkm.com.tr 
+vless://89e5e115-7ff9-4ff5-ab77-2c023618b584@tu.mkm.com.tr:443?hiddify=1&sni=www.theguardian.com&type=grpc&alpn=h2&path=MCz45tKAMYa1ceJYoGafJWDIDuQmP&serviceName=MCz45tKAMYa1ceJYoGafJWDIDuQmP&mode=multi&encryption=none&fp=chrome&headerType=None&security=reality&pbk=ajWuicsKgSLqbXI-8TuXFQc8F9F7E2vEq8Pa0Wbw2l0&sid=3d71#reality_grpc_direct_vless_tu.mkm.com.tr
+
+
+
+
+####################################
+## Auto  auto_cdn_ip  Auto  http:80
+####################################
+
+# http_WS_CDN_vmess Auto 
+vmess://eyJ2IjogIjIiLCAicHMiOiAiaHR0cF9XU19DRE5fdm1lc3NfQXV0byIsICJhZGQiOiAiMTczLjI0NS40OS4yNyIsICJwb3J0IjogODAsICJpZCI6ICI4OWU1ZTExNS03ZmY5LTRmZjUtYWI3Ny0yYzAyMzYxOGI1ODQiLCAiYWlkIjogMCwgInNjeSI6ICJjaGFjaGEyMC1wb2x5MTMwNSIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAidm8uYXRpbGEuZ2EiLCAiYWxwbiI6ICJodHRwLzEuMSIsICJwYXRoIjogIi82NFhrTFBtQmpnNWtwNUNPb2h5VSIsICJ0bHMiOiAiIiwgInNuaSI6ICJ2by5hdGlsYS5nYSIsICJmcCI6ICJjaHJvbWUifQ==
+####################################
+## Auto  auto_cdn_ip  Auto  tls:443
+####################################
+
+# tls_h2_WS_CDN_vless Auto 
+vless://89e5e115-7ff9-4ff5-ab77-2c023618b584@173.245.49.27:443?hiddify=1&sni=vo.atila.ga&type=ws&alpn=h2&path=/MCz45tKAMYa1ce5COohyU&host=vo.atila.ga&encryption=none&fp=chrome&headerType=None&security=tls#tls_h2_WS_CDN_vless_Auto
+
+# tls_h2_WS_CDN_trojan Auto 
+trojan://89e5e115-7ff9-4ff5-ab77-2c023618b584@173.245.49.27:443?hiddify=1&sni=vo.atila.ga&type=ws&alpn=h2&path=/Usn0WKVq0u15COohyU&host=vo.atila.ga&fp=chrome&headerType=None&security=tls#tls_h2_WS_CDN_trojan_Auto
+
+# tls_h2_WS_CDN_vmess Auto 
+vmess://eyJ2IjogIjIiLCAicHMiOiAidGxzX2gyX1dTX0NETl92bWVzc19BdXRvIiwgImFkZCI6ICIxNzMuMjQ1LjQ5LjI3IiwgInBvcnQiOiA0NDMsICJpZCI6ICI4OWU1ZTExNS03ZmY5LTRmZjUtYWI3Ny0yYzAyMzYxOGI1ODQiLCAiYWlkIjogMCwgInNjeSI6ICJjaGFjaGEyMC1wb2x5MTMwNSIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAidm8uYXRpbGEuZ2EiLCAiYWxwbiI6ICJoMiIsICJwYXRoIjogIi82NFhrTFBtQmpnNWtwNUNPb2h5VSIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICJ2by5hdGlsYS5nYSIsICJmcCI6ICJjaHJvbWUifQ==
+
+# tls_h2_grpc_CDN_vless Auto 
+vless://89e5e115-7ff9-4ff5-ab77-2c023618b584@173.245.49.27:443?hiddify=1&sni=vo.atila.ga&type=grpc&alpn=h2&path=MCz45tKAMYa1ceJYoGafJWDIDuQmP&host=vo.atila.ga&serviceName=MCz45tKAMYa1ceJYoGafJWDIDuQmP&mode=multi&encryption=none&fp=chrome&headerType=None&security=tls#tls_h2_grpc_CDN_vless_Auto
+
+# tls_h2_grpc_CDN_trojan Auto 
+trojan://89e5e115-7ff9-4ff5-ab77-2c023618b584@173.245.49.27:443?hiddify=1&sni=vo.atila.ga&type=grpc&alpn=h2&path=Usn0WKVq0u1JYoGafJWDIDuQmP&host=vo.atila.ga&serviceName=Usn0WKVq0u1JYoGafJWDIDuQmP&mode=multi&fp=chrome&headerType=None&security=tls#tls_h2_grpc_CDN_trojan_Auto
+
+# tls_h2_grpc_CDN_vmess Auto 
+vmess://eyJ2IjogIjIiLCAicHMiOiAidGxzX2gyX2dycGNfQ0ROX3ZtZXNzX0F1dG8iLCAiYWRkIjogIjE3My4yNDUuNDkuMjciLCAicG9ydCI6IDQ0MywgImlkIjogIjg5ZTVlMTE1LTdmZjktNGZmNS1hYjc3LTJjMDIzNjE4YjU4NCIsICJhaWQiOiAwLCAic2N5IjogImNoYWNoYTIwLXBvbHkxMzA1IiwgIm5ldCI6ICJncnBjIiwgInR5cGUiOiAibXVsdGkiLCAiaG9zdCI6ICJ2by5hdGlsYS5nYSIsICJhbHBuIjogImgyIiwgInBhdGgiOiAiNjRYa0xQbUJqZzVrcEpZb0dhZkpXRElEdVFtUCIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICJ2by5hdGlsYS5nYSIsICJmcCI6ICJjaHJvbWUifQ==
+
+# tls_WS_CDN_vless Auto 
+vless://89e5e115-7ff9-4ff5-ab77-2c023618b584@173.245.49.27:443?hiddify=1&sni=vo.atila.ga&type=ws&alpn=http/1.1&path=/MCz45tKAMYa1ce5COohyU&host=vo.atila.ga&encryption=none&fp=chrome&headerType=None&security=tls#tls_WS_CDN_vless_Auto
+
+# tls_WS_CDN_trojan Auto 
+trojan://89e5e115-7ff9-4ff5-ab77-2c023618b584@173.245.49.27:443?hiddify=1&sni=vo.atila.ga&type=ws&alpn=http/1.1&path=/Usn0WKVq0u15COohyU&host=vo.atila.ga&fp=chrome&headerType=None&security=tls#tls_WS_CDN_trojan_Auto
+
+# tls_WS_CDN_vmess Auto 
+vmess://eyJ2IjogIjIiLCAicHMiOiAidGxzX1dTX0NETl92bWVzc19BdXRvIiwgImFkZCI6ICIxNzMuMjQ1LjQ5LjI3IiwgInBvcnQiOiA0NDMsICJpZCI6ICI4OWU1ZTExNS03ZmY5LTRmZjUtYWI3Ny0yYzAyMzYxOGI1ODQiLCAiYWlkIjogMCwgInNjeSI6ICJjaGFjaGEyMC1wb2x5MTMwNSIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAidm8uYXRpbGEuZ2EiLCAiYWxwbiI6ICJodHRwLzEuMSIsICJwYXRoIjogIi82NFhrTFBtQmpnNWtwNUNPb2h5VSIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICJ2by5hdGlsYS5nYSIsICJmcCI6ICJjaHJvbWUifQ==
+
+# tls_grpc_CDN_vless Auto 
+vless://89e5e115-7ff9-4ff5-ab77-2c023618b584@173.245.49.27:443?hiddify=1&sni=vo.atila.ga&type=grpc&alpn=http/1.1&path=MCz45tKAMYa1ceJYoGafJWDIDuQmP&host=vo.atila.ga&serviceName=MCz45tKAMYa1ceJYoGafJWDIDuQmP&mode=multi&encryption=none&fp=chrome&headerType=None&security=tls#tls_grpc_CDN_vless_Auto
+
+# tls_grpc_CDN_trojan Auto 
+trojan://89e5e115-7ff9-4ff5-ab77-2c023618b584@173.245.49.27:443?hiddify=1&sni=vo.atila.ga&type=grpc&alpn=http/1.1&path=Usn0WKVq0u1JYoGafJWDIDuQmP&host=vo.atila.ga&serviceName=Usn0WKVq0u1JYoGafJWDIDuQmP&mode=multi&fp=chrome&headerType=None&security=tls#tls_grpc_CDN_trojan_Auto
+
+# tls_grpc_CDN_vmess Auto 
+vmess://eyJ2IjogIjIiLCAicHMiOiAidGxzX2dycGNfQ0ROX3ZtZXNzX0F1dG8iLCAiYWRkIjogIjE3My4yNDUuNDkuMjciLCAicG9ydCI6IDQ0MywgImlkIjogIjg5ZTVlMTE1LTdmZjktNGZmNS1hYjc3LTJjMDIzNjE4YjU4NCIsICJhaWQiOiAwLCAic2N5IjogImNoYWNoYTIwLXBvbHkxMzA1IiwgIm5ldCI6ICJncnBjIiwgInR5cGUiOiAibXVsdGkiLCAiaG9zdCI6ICJ2by5hdGlsYS5nYSIsICJhbHBuIjogImh0dHAvMS4xIiwgInBhdGgiOiAiNjRYa0xQbUJqZzVrcEpZb0dhZkpXRElEdVFtUCIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICJ2by5hdGlsYS5nYSIsICJmcCI6ICJjaHJvbWUifQ==
+
+
+
+
+####################################
+##  cdn  worker  http:80
+####################################
+
+# http_WS_CDN_vmess worker 
+vmess://eyJ2IjogIjIiLCAicHMiOiAiaHR0cF9XU19DRE5fdm1lc3Nfd29ya2VyIiwgImFkZCI6ICJzdGlsbC12aW9sZXQtYjU0Mi5hbHBheS10dTE5Nzkud29ya2Vycy5kZXYiLCAicG9ydCI6IDgwLCAiaWQiOiAiODllNWUxMTUtN2ZmOS00ZmY1LWFiNzctMmMwMjM2MThiNTg0IiwgImFpZCI6IDAsICJzY3kiOiAiY2hhY2hhMjAtcG9seTEzMDUiLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogInN0aWxsLXZpb2xldC1iNTQyLmFscGF5LXR1MTk3OS53b3JrZXJzLmRldiIsICJhbHBuIjogImh0dHAvMS4xIiwgInBhdGgiOiAiLzY0WGtMUG1Camc1a3A1Q09vaHlVIiwgInRscyI6ICIiLCAic25pIjogInN0aWxsLXZpb2xldC1iNTQyLmFscGF5LXR1MTk3OS53b3JrZXJzLmRldiIsICJmcCI6ICJjaHJvbWUifQ==
+####################################
+##  cdn  worker  tls:443
+####################################
+
+# tls_h2_WS_CDN_vless worker 
+vless://89e5e115-7ff9-4ff5-ab77-2c023618b584@still-violet-b542.alpay-tu1979.workers.dev:443?hiddify=1&sni=still-violet-b542.alpay-tu1979.workers.dev&type=ws&alpn=h2&path=/MCz45tKAMYa1ce5COohyU&host=still-violet-b542.alpay-tu1979.workers.dev&encryption=none&fp=chrome&headerType=None&security=tls#tls_h2_WS_CDN_vless_worker
+
+# tls_h2_WS_CDN_trojan worker 
+trojan://89e5e115-7ff9-4ff5-ab77-2c023618b584@still-violet-b542.alpay-tu1979.workers.dev:443?hiddify=1&sni=still-violet-b542.alpay-tu1979.workers.dev&type=ws&alpn=h2&path=/Usn0WKVq0u15COohyU&host=still-violet-b542.alpay-tu1979.workers.dev&fp=chrome&headerType=None&security=tls#tls_h2_WS_CDN_trojan_worker
+
+# tls_h2_WS_CDN_vmess worker 
+vmess://eyJ2IjogIjIiLCAicHMiOiAidGxzX2gyX1dTX0NETl92bWVzc193b3JrZXIiLCAiYWRkIjogInN0aWxsLXZpb2xldC1iNTQyLmFscGF5LXR1MTk3OS53b3JrZXJzLmRldiIsICJwb3J0IjogNDQzLCAiaWQiOiAiODllNWUxMTUtN2ZmOS00ZmY1LWFiNzctMmMwMjM2MThiNTg0IiwgImFpZCI6IDAsICJzY3kiOiAiY2hhY2hhMjAtcG9seTEzMDUiLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogInN0aWxsLXZpb2xldC1iNTQyLmFscGF5LXR1MTk3OS53b3JrZXJzLmRldiIsICJhbHBuIjogImgyIiwgInBhdGgiOiAiLzY0WGtMUG1Camc1a3A1Q09vaHlVIiwgInRscyI6ICJ0bHMiLCAic25pIjogInN0aWxsLXZpb2xldC1iNTQyLmFscGF5LXR1MTk3OS53b3JrZXJzLmRldiIsICJmcCI6ICJjaHJvbWUifQ==
+
+# tls_h2_grpc_CDN_vless worker 
+vless://89e5e115-7ff9-4ff5-ab77-2c023618b584@still-violet-b542.alpay-tu1979.workers.dev:443?hiddify=1&sni=still-violet-b542.alpay-tu1979.workers.dev&type=grpc&alpn=h2&path=MCz45tKAMYa1ceJYoGafJWDIDuQmP&host=still-violet-b542.alpay-tu1979.workers.dev&serviceName=MCz45tKAMYa1ceJYoGafJWDIDuQmP&mode=multi&encryption=none&fp=chrome&headerType=None&security=tls#tls_h2_grpc_CDN_vless_worker
+
+# tls_h2_grpc_CDN_trojan worker 
+trojan://89e5e115-7ff9-4ff5-ab77-2c023618b584@still-violet-b542.alpay-tu1979.workers.dev:443?hiddify=1&sni=still-violet-b542.alpay-tu1979.workers.dev&type=grpc&alpn=h2&path=Usn0WKVq0u1JYoGafJWDIDuQmP&host=still-violet-b542.alpay-tu1979.workers.dev&serviceName=Usn0WKVq0u1JYoGafJWDIDuQmP&mode=multi&fp=chrome&headerType=None&security=tls#tls_h2_grpc_CDN_trojan_worker
+
+# tls_h2_grpc_CDN_vmess worker 
+vmess://eyJ2IjogIjIiLCAicHMiOiAidGxzX2gyX2dycGNfQ0ROX3ZtZXNzX3dvcmtlciIsICJhZGQiOiAic3RpbGwtdmlvbGV0LWI1NDIuYWxwYXktdHUxOTc5LndvcmtlcnMuZGV2IiwgInBvcnQiOiA0NDMsICJpZCI6ICI4OWU1ZTExNS03ZmY5LTRmZjUtYWI3Ny0yYzAyMzYxOGI1ODQiLCAiYWlkIjogMCwgInNjeSI6ICJjaGFjaGEyMC1wb2x5MTMwNSIsICJuZXQiOiAiZ3JwYyIsICJ0eXBlIjogIm11bHRpIiwgImhvc3QiOiAic3RpbGwtdmlvbGV0LWI1NDIuYWxwYXktdHUxOTc5LndvcmtlcnMuZGV2IiwgImFscG4iOiAiaDIiLCAicGF0aCI6ICI2NFhrTFBtQmpnNWtwSllvR2FmSldESUR1UW1QIiwgInRscyI6ICJ0bHMiLCAic25pIjogInN0aWxsLXZpb2xldC1iNTQyLmFscGF5LXR1MTk3OS53b3JrZXJzLmRldiIsICJmcCI6ICJjaHJvbWUifQ==
+
+# tls_WS_CDN_vless worker 
+vless://89e5e115-7ff9-4ff5-ab77-2c023618b584@still-violet-b542.alpay-tu1979.workers.dev:443?hiddify=1&sni=still-violet-b542.alpay-tu1979.workers.dev&type=ws&alpn=http/1.1&path=/MCz45tKAMYa1ce5COohyU&host=still-violet-b542.alpay-tu1979.workers.dev&encryption=none&fp=chrome&headerType=None&security=tls#tls_WS_CDN_vless_worker
+
+# tls_WS_CDN_trojan worker 
+trojan://89e5e115-7ff9-4ff5-ab77-2c023618b584@still-violet-b542.alpay-tu1979.workers.dev:443?hiddify=1&sni=still-violet-b542.alpay-tu1979.workers.dev&type=ws&alpn=http/1.1&path=/Usn0WKVq0u15COohyU&host=still-violet-b542.alpay-tu1979.workers.dev&fp=chrome&headerType=None&security=tls#tls_WS_CDN_trojan_worker
+
+# tls_WS_CDN_vmess worker 
+vmess://eyJ2IjogIjIiLCAicHMiOiAidGxzX1dTX0NETl92bWVzc193b3JrZXIiLCAiYWRkIjogInN0aWxsLXZpb2xldC1iNTQyLmFscGF5LXR1MTk3OS53b3JrZXJzLmRldiIsICJwb3J0IjogNDQzLCAiaWQiOiAiODllNWUxMTUtN2ZmOS00ZmY1LWFiNzctMmMwMjM2MThiNTg0IiwgImFpZCI6IDAsICJzY3kiOiAiY2hhY2hhMjAtcG9seTEzMDUiLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogInN0aWxsLXZpb2xldC1iNTQyLmFscGF5LXR1MTk3OS53b3JrZXJzLmRldiIsICJhbHBuIjogImh0dHAvMS4xIiwgInBhdGgiOiAiLzY0WGtMUG1Camc1a3A1Q09vaHlVIiwgInRscyI6ICJ0bHMiLCAic25pIjogInN0aWxsLXZpb2xldC1iNTQyLmFscGF5LXR1MTk3OS53b3JrZXJzLmRldiIsICJmcCI6ICJjaHJvbWUifQ==
+
+# tls_grpc_CDN_vless worker 
+vless://89e5e115-7ff9-4ff5-ab77-2c023618b584@still-violet-b542.alpay-tu1979.workers.dev:443?hiddify=1&sni=still-violet-b542.alpay-tu1979.workers.dev&type=grpc&alpn=http/1.1&path=MCz45tKAMYa1ceJYoGafJWDIDuQmP&host=still-violet-b542.alpay-tu1979.workers.dev&serviceName=MCz45tKAMYa1ceJYoGafJWDIDuQmP&mode=multi&encryption=none&fp=chrome&headerType=None&security=tls#tls_grpc_CDN_vless_worker
+
+# tls_grpc_CDN_trojan worker 
+trojan://89e5e115-7ff9-4ff5-ab77-2c023618b584@still-violet-b542.alpay-tu1979.workers.dev:443?hiddify=1&sni=still-violet-b542.alpay-tu1979.workers.dev&type=grpc&alpn=http/1.1&path=Usn0WKVq0u1JYoGafJWDIDuQmP&host=still-violet-b542.alpay-tu1979.workers.dev&serviceName=Usn0WKVq0u1JYoGafJWDIDuQmP&mode=multi&fp=chrome&headerType=None&security=tls#tls_grpc_CDN_trojan_worker
+
+# tls_grpc_CDN_vmess worker 
+vmess://eyJ2IjogIjIiLCAicHMiOiAidGxzX2dycGNfQ0ROX3ZtZXNzX3dvcmtlciIsICJhZGQiOiAic3RpbGwtdmlvbGV0LWI1NDIuYWxwYXktdHUxOTc5LndvcmtlcnMuZGV2IiwgInBvcnQiOiA0NDMsICJpZCI6ICI4OWU1ZTExNS03ZmY5LTRmZjUtYWI3Ny0yYzAyMzYxOGI1ODQiLCAiYWlkIjogMCwgInNjeSI6ICJjaGFjaGEyMC1wb2x5MTMwNSIsICJuZXQiOiAiZ3JwYyIsICJ0eXBlIjogIm11bHRpIiwgImhvc3QiOiAic3RpbGwtdmlvbGV0LWI1NDIuYWxwYXktdHUxOTc5LndvcmtlcnMuZGV2IiwgImFscG4iOiAiaHR0cC8xLjEiLCAicGF0aCI6ICI2NFhrTFBtQmpnNWtwSllvR2FmSldESUR1UW1QIiwgInRscyI6ICJ0bHMiLCAic25pIjogInN0aWxsLXZpb2xldC1iNTQyLmFscGF5LXR1MTk3OS53b3JrZXJzLmRldiIsICJmcCI6ICJjaHJvbWUifQ==
+
+
+
+
